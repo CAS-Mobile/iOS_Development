@@ -19,10 +19,10 @@ class ViewController: UIViewController {
         defaults.set(myFloat, forKey:"myFloat")
         
         // Read from UserDefaults
-        let retreivedString = defaults.string(forKey: "myString") ?? ""
-        let retreivedFloat = defaults.float(forKey: "myFloat")
+        let retrievedString = defaults.string(forKey: "myString") ?? ""
+        let retrievedFloat = defaults.float(forKey: "myFloat")
         
-        NSLog("Retreived string: \(retreivedString)")
-        NSLog("Retreived float: \(retreivedFloat)")
+        NSLog("Retreived string: \(retrievedString)")
+        NSLog("Retreived float: \(retrievedFloat)")
     }
 }
