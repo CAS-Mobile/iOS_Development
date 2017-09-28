@@ -17,3 +17,7 @@ The simple ObjC Adder from before but now with the logic part being written in S
 ### 4. UserDefaults
 
 Persist some values and read them again.
+
+### 5. UserDefaults_InterfaceBuilder
+
+Persist user input and survive the app getting killed.
