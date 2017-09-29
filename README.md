@@ -21,3 +21,7 @@ Persist some values and read them again.
 ### 5. UserDefaults_InterfaceBuilder
 
 Persist user input and survive the app getting killed.
+
+### 6. UnitTesting_Adder
+
+Add unit tests to our Swift Adder class (no UI here).
