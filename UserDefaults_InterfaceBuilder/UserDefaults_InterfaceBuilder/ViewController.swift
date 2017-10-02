@@ -1,12 +1,14 @@
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController , UITextFieldDelegate {
     
     @IBOutlet weak var textField: UITextField!
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        textField.delegate = self
         // load data from UserDefaults
     }
 
@@ -15,6 +17,11 @@ class ViewController: UIViewController {
         
         // store data in UserDefaults
         
+    }
+    
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        textField.resignFirstResponder()
+        return true
     }
 }
 
