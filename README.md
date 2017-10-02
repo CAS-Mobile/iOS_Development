@@ -1,6 +1,6 @@
 # CAS Mobile App Development - iOS Development
 
-## Sample Code
+## Part 1 (Sep 29)
 
 ### 1. AdderObjC
 
@@ -25,3 +25,9 @@ Persist user input and survive the app getting killed.
 ### 6. UnitTesting_Adder
 
 Add unit tests to our Swift Adder class (no UI here).
+
+## Part 2 (Oct 6)
+
+### 1. Debugging
+
+An incomplete project with tab bar navigation that crashes at runtime and needs to be fixed.
