@@ -31,3 +31,7 @@ Add unit tests to our Swift Adder class (no UI here).
 ### 1. Debugging
 
 An incomplete project with tab bar navigation that crashes at runtime and needs to be fixed.
+
+### 2. Interface Builder
+
+Demonstrating two different ways of positioning elements to fit various screen sizes using interface builder.
