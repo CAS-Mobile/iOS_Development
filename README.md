@@ -35,3 +35,7 @@ An incomplete project with tab bar navigation that crashes at runtime and needs 
 ### 2. Interface Builder
 
 Demonstrating two different ways of positioning elements to fit various screen sizes using interface builder.
+
+### 3. Animations
+
+Simple animations using UIView's Core Animation properties.
