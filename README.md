@@ -39,3 +39,7 @@ Demonstrating two different ways of positioning elements to fit various screen s
 ### 3. Animations
 
 Simple animations using UIView's Core Animation properties.
+
+### 4. Navigation
+
+Navigate between view controllers using Interface Builder and Segues.
