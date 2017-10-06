@@ -25,6 +25,7 @@ class SecondViewController: UIViewController {
 
         // TODO: Show alert view when user entered invalid values
  
+        // TODO: Bonus: delete invalid user input from the textfields once user presses ok
     }
 
 }
