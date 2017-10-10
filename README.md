@@ -26,6 +26,7 @@ Persist user input and survive the app getting killed.
 
 Add unit tests to our Swift Adder class (no UI here).
 
+
 ## Part 2 (Oct 6)
 
 ### 1. Debugging
@@ -44,6 +45,13 @@ Simple animations using UIView's Core Animation properties.
 
 Navigate between view controllers using Interface Builder and Segues.
 
-### 5. PassingData
+
+## Part 3 (Oct 13)
+
+### 1. PassingData
 
 Pass data from one view controller to the next
+
+### 2. UI Testing
+
+Our famous *Adder* project now with UI Tests.
