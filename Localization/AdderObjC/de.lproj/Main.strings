@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "The Calculator"; ObjectID = "9xW-yI-bWa"; */
+"9xW-yI-bWa.text" = "Der Rechner";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "XUd-oB-eai"; */
+"XUd-oB-eai.normalTitle" = "Addieren";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "gDs-cN-boN"; */
+"gDs-cN-boN.text" = "Resultat";

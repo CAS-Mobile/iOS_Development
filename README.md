@@ -50,8 +50,12 @@ Navigate between view controllers using Interface Builder and Segues.
 
 ### 1. PassingData
 
-Pass data from one view controller to the next
+Pass data from one view controller to the next.
 
 ### 2. UI Testing
 
 Our famous *Adder* project now with UI Tests.
+
+### 3. Localization
+
+Translating the *Adder* project into different languages.
