@@ -63,3 +63,7 @@ Translating the *Adder* project into different languages.
 ### 4. URLSession
 
 The simplest possible example to asynchronously fetch data from the internet.
+
+### 5. ApiConnector
+
+Wrap the networking code in a more useable class.
